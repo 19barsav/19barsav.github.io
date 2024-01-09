@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Savvy's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Savvy Barnes
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Github: "https://github.com/19barsav"
+    - LinkedIn: ""
+  Author's home: "https://www.linkedin.com/in/savanah-barnes"
 
 ################
 # --- Logo --- #
