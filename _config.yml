@@ -57,7 +57,7 @@ social-network-links:
   twitter: savvy_ai_phl
 #  patreon: DeanAttali
 #  youtube: "@daattali"
-  medium: @barne329
+  medium: "@barne329"
 #  reddit: yourname
   linkedin: savanah-barnes
 #  xing: yourname
@@ -73,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: 0009-0003-1167-3737
+  ORCID: "0009-0003-1167-3737"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: RSS feed for Savvy Barne's website
+rss-description: "RSS feed for Savvy Barne's website"
  
 ###########################
 # --- General options --- #
