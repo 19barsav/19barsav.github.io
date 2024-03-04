@@ -21,10 +21,15 @@ author: Savvy Barnes
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  My Work:
     - Github: "https://github.com/19barsav"
+    - Talks: "talks"
+    - Publications: "pubs"
+    - CV: "cv"
+  Contact: 
     - LinkedIn: "https://www.linkedin.com/in/savanah-barnes"
-  Author's home: "https://19barsav.github.io"
+    - Email: "barne329@msu.edu"
+  Blog: "https://19barsav.github.io"
 
 ################
 # --- Logo --- #
