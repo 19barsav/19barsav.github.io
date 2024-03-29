@@ -4,10 +4,9 @@ title: About Me
 subtitle: Savvy Barnes - Computer & Cognitive Scientist 
 ---
 
+My expertise lies in the intersection of artificial intelligence, natural language processing, and data science, with a rich background in both industry and academia. 
 
-Hello there! I'm Savvy, a passionate individual with a unique blend of expertise in computer science and cogntivie science. I hold dual bachelor degrees in Computer Science and Psychology, with minors in Environmental Sustainability Studies, Philosophy, and Cognitive Science. Currently, I am completing my Master's in Computer Science with a specialization in Cognitive Science, all proudly earned from Michigan State University.
-
-### My expertise lies in the intersection of artificial intelligence, natural language processing, and data science, with a rich background in both industry and academia. 
+I am a passionate individual with a unique blend of expertise in computer science and cogntivie science. I hold dual bachelor degrees in Computer Science and Psychology, with minors in Environmental Sustainability Studies, Philosophy, and Cognitive Science. Currently, I am completing my Master's in Computer Science with a specialization in Cognitive Science, all proudly earned from Michigan State University.
 
 My journey has taken me through incredible experiences, from collaborating with NASA Glenn's Graphical Visualization Team to contributing my skills to Kellanova's Global Data Science Team and the Interoperability Institute. I've immersed myself in various research labs, contributing to projects ranging from natural language AI guidance to exploring the intriguing connection between music and narrative. In my latest endeavor, I've delved into the realm of philosophy of science, focusing on a modified version of Koskinen's risk account.
 
