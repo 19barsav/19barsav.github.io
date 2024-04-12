@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rear Collision Avoidance System Prototype</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <h1>Rear Collision Avoidance System</h1>
+    <div id="main-container">
+
+        <!-- Contents of left half of simulation -->
+        <div id="left-half">
+            <button type="button" id="toggle-obstacle-button"><h2>Add/Remove Obstacle</h2></button>
+            
+            <div id="gear-select-div">
+                <b><div id="current-gear"><h2>Park</h2></div></b>
+                <div id="change-gear-hint">Press brake and key (P, R, N, D) to change gear</div>
+            </div>
+            <button type="button" id="gas-button"><h2>Press Accelerator Pedal</h2></button>
+            <button type="button" id="brake-button"><h2>Press Brake Pedal</h2></button>
+            <div id="timer">
+                <h2><p>Timer: 0:0:0</p></h2>
+            </div>
+        </div>
+
+        <!-- Contents of right half of simulation -->
+        <div id="right-half">
+            <div id="simulation-container">
+                <canvas id="sim-canvas" ></canvas>
+                
+            </div>
+            <div id="infotainment-container">
+                <canvas id="info-canvas" ></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
