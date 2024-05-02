@@ -25,11 +25,13 @@ navbar-links:
     - Github: "https://github.com/19barsav"
     - Talks: "talks"
     - Publications: "pubs"
-    - CV: "cv"
+    - Resume/CV:
+        - CV: "cv"
+        - Resume: "resume"
   Contact: 
     - LinkedIn: "https://www.linkedin.com/in/savanah-barnes"
   Blog: "https://19barsav.github.io"
-  CSE 870: "main.html"
+  #CSE 870: "main.html"
 
 ################
 # --- Logo --- #
@@ -37,7 +39,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/savvy_face.jpg"
+avatar: "/assets/img/barne.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
