@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Savvy's Website
+title: Savvy Barnes
 
 # Your name to show in the footer
 author: Savvy Barnes
@@ -21,10 +21,15 @@ author: Savvy Barnes
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  My Work:
     - Github: "https://github.com/19barsav"
-    - LinkedIn: ""
-  Author's home: "https://www.linkedin.com/in/savanah-barnes"
+    - Talks: "talks"
+    - Publications: "pubs"
+    - CV: "cv"
+  Contact: 
+    - LinkedIn: "https://www.linkedin.com/in/savanah-barnes"
+  Blog: "https://19barsav.github.io"
+  CSE 870: "main.html"
 
 ################
 # --- Logo --- #
@@ -32,7 +37,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/savvy_face.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,16 +55,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "barne329@msu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-#  medium: yourname
+#  facebook: deanattali
+  github: 19barsav
+  twitter: savvy_ai_phl
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+  medium: "@barne329"
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: savanah-barnes
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +78,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: "0009-0003-1167-3737"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -82,8 +87,8 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: "RSS feed for Savvy Barnes' website"
+ 
 ###########################
 # --- General options --- #
 ###########################
@@ -91,13 +96,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -109,7 +114,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -117,7 +122,7 @@ edit_page_button: true
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -128,7 +133,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#E0F19C"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -143,7 +148,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+#navbar-img: "/assets/img/sci1.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
