@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="added base file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="much update about me">
       <change beforePath="$PROJECT_DIR$/aboutme.md" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714674751107</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="much update about me">
+      <created>1714675867421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714675867421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added base file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added base file" />
+    <MESSAGE value="much update about me" />
+    <option name="LAST_COMMIT_MESSAGE" value="much update about me" />
   </component>
 </project>
