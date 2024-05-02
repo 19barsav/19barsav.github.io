@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="added resume and fixed some others stuff">
+    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="trying something with the tabs?">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714676495184</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="trying something with the tabs?">
+      <created>1714676774943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714676774943</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="added base file" />
     <MESSAGE value="much update about me" />
     <MESSAGE value="added resume and fixed some others stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added resume and fixed some others stuff" />
+    <MESSAGE value="trying something with the tabs?" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying something with the tabs?" />
   </component>
 </project>
