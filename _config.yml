@@ -25,7 +25,7 @@ navbar-links:
     - Github: "https://github.com/19barsav"
     - Talks: "talks"
     - Publications: "pubs"
-    - Resume/CV:
+    Resume/CV:
         - CV: "cv"
         - Resume: "resume"
   Contact: 

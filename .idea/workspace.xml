@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="much update about me">
-      <change afterPath="$PROJECT_DIR$/RESUME_MAY2024.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/barne.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26ff9cbd-b6f9-4e16-9139-1ef8d7467799" name="Changes" comment="added resume and fixed some others stuff">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714676045672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added resume and fixed some others stuff">
+      <created>1714676495184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714676495184</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added base file" />
     <MESSAGE value="much update about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="much update about me" />
+    <MESSAGE value="added resume and fixed some others stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="added resume and fixed some others stuff" />
   </component>
 </project>
