@@ -4,4 +4,5 @@ title: Publications
 
 ---
 
-This is a page in progress!
+ (In Review) [Driving Accessibility: Shifting the Narrative & Design of Automated Vehicle
+Systems for Persons With Disabilities Through a Collaborative Scoring System](preprint_dd.md) on the team?
