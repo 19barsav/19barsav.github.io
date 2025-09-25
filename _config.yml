@@ -27,7 +27,6 @@ navbar-links:
     - Publications: "pubs"
   Resume/CV:
       - CV: "cv"
-      - Resume: "resume"
   Contact: 
     - LinkedIn: "https://www.linkedin.com/in/savanah-barnes"
   Blog: "https://19barsav.github.io"
