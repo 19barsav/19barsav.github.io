@@ -21,15 +21,10 @@ author: Savvy Barnes
 
 navbar-links:
   About Me: "aboutme"
-  My Work:
-    - Github: "https://github.com/19barsav"
-    - Talks: "talks"
-    - Publications: "pubs"
-  Resume/CV:
-      - CV: "cv"
-  Contact: 
-    - LinkedIn: "https://www.linkedin.com/in/savanah-barnes"
-  Blog: "https://19barsav.github.io/
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
